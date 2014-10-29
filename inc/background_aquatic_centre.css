@@ -1,0 +1,14 @@
+
+#blq-container {
+    background-image: url('aquatic_centre.jpg');
+    background-repeat: no-repeat;
+    background-position: center 126px;
+    background-size: 1300px;
+}
+#content-wrapper {
+    background: transparent;
+}
+#blq-main #main-content {
+    background: #fff;
+    margin-top: 90px;
+}
